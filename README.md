@@ -25,3 +25,12 @@ This project analyzes U.S. unemployment trends using Snowflake Public Data and S
 
 ### Sector Employment Trends
 ![Sector Analysis](SECTOR.png)
+
+## Data Processing Approach
+
+- The dataset contains geographic identifiers (GEO_ID) instead of state names.
+- Extracted the state FIPS code using `SPLIT_PART(GEO_ID, '/', 2)`.
+- Mapped FIPS codes to state names using a lookup table.
+- Filtered data to include only state-level records and exclude metro-level observations.
+- Used AVG() for unemployment rates, as they represent percentages rather than totals.
+
