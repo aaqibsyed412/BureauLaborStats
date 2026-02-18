@@ -24,4 +24,4 @@ This project analyzes U.S. unemployment trends using Snowflake Public Data and S
 ![State Analysis](BY_STATE.png)
 
 ### Sector Employment Trends
-![Sector Analysis]()
+![Sector Analysis](SECTOR.png)
