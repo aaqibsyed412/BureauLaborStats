@@ -21,7 +21,7 @@ This project analyzes U.S. unemployment trends using Snowflake Public Data and S
 ![National Unemployment](AVG_PERCENTAGE_OF_UNEMPLOYMENT_RATE.png)
 
 ### State-Level Comparison
-![State Analysis]()
+![State Analysis](BY_STATE.png)
 
 ### Sector Employment Trends
 ![Sector Analysis]()
