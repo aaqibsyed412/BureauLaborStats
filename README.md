@@ -18,10 +18,10 @@ This project analyzes U.S. unemployment trends using Snowflake Public Data and S
 ## Key Visualizations
 
 ### National Unemployment Trend
-
+![National Unemployment]()
 
 ### State-Level Comparison
-![State Analysis](images/state_analysis.png)
+![State Analysis]()
 
 ### Sector Employment Trends
-![Sector Analysis](images/sector_analysis.png)
+![Sector Analysis]()
